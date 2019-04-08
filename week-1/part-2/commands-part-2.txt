@@ -1,0 +1,5 @@
+w1-p2-1.js
+Command: $ node w1-p2-1.js "example.com"
+
+w1-p2-2.js
+Command: $ node w1-p2-2.js
