@@ -1,4 +1,4 @@
-# Week 1
+## Week 1
 Useful html tags
 * i: italics
 * b: bold
@@ -22,3 +22,8 @@ host: example.com
 [HTTP 1.0](https://tools.ietf.org/html/rfc1945)
 
 * `$ rm` to remove files
+
+## Week 2
+* `process.argv`: process means we are in a node file
+* `npm install` --save: save is important ecause keeps the lib in the future
+* callbacks are defined for aeach case
