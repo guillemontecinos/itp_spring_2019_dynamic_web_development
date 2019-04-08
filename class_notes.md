@@ -26,4 +26,11 @@ host: example.com
 ## Week 2
 * `process.argv`: process means we are in a node file
 * `npm install` --save: save is important ecause keeps the lib in the future
-* callbacks are defined for aeach case
+* callbacks are defined for each case
+
+### Servers
+* package express
+* `npm install express`
+* [mustache.js](https://mustache.github.io/)
+    * [npm](https://www.npmjs.com/package/mustache)
+* mustache != yaml
