@@ -1,1 +1,1 @@
-# itp_spring_2019_synamic_web_development
+# itp_spring_2019_dynamic_web_development
