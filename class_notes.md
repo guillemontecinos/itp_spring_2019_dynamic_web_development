@@ -34,3 +34,8 @@ host: example.com
 * [mustache.js](https://mustache.github.io/)
     * [npm](https://www.npmjs.com/package/mustache)
 * mustache != yaml
+
+## Week 3
+* heroku
+* process.env returns the environment
+* 
