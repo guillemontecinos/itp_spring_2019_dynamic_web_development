@@ -39,3 +39,13 @@ host: example.com
 * heroku
 * process.env returns the environment
 * 
+
+## Week 5 - CSS
+* Margins collapse
+* https://caniuse.com/
+* when using id in css, it's called by placing a # before it
+* when using classes, they're called adding a '.' before the name
+
+## Week 6
+* Passport.js to authentication
+* window.locate.search
